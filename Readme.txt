@@ -4,3 +4,5 @@ Theme Name: EstateAgency
 Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
+
+GH-Pages: https://dulceagar.github.io/Digitafy/
